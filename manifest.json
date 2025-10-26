@@ -1,7 +1,7 @@
 {
 "update_url": "https://clients2.google.com/service/update2/crx",
 
-	"manifest_version": 3,
+	"manifest_version": 2,
 
 	"name": "CTG Plugins",
 	"short_name": "CTG Plugins",
