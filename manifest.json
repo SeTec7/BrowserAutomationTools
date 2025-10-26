@@ -3,11 +3,11 @@
 
 	"manifest_version": 2,
 
-	"name": "CTG Plugins",
-	"short_name": "CTG Plugins",
-	"author": "Jason O'Neill",
-	"description": "A collection of simple plugins to improve your web browsing experience.",
-	"version": "1.7.1",
+	"name": "BrowserAutomationTools",
+	"short_name": "BAT",
+	"author": "Jared Gillis",
+	"description": "A collection of tools to automate web interactions.",
+	"version": "1.0",
 
 	"icons": {
 		"16": "assets/icon16.png",
@@ -26,7 +26,7 @@
 	"browser_action": {
 		"default_icon": "assets/icon128.png",
 		"default_popup": "popup.html",
-		"default_title": "CTG Plugins"
+		"default_title": "BrowserAutomationTools"
 	},
 	
 	"permissions": [
